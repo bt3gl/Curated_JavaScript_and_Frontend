@@ -50,6 +50,25 @@ $ yarn start
     * `public`: where our static assets go, like our favicon. It also keeps the project's HTML file. Because React is all JavaScript, you only really need the HTML file to update the <head> (title and meta tags).
     * `src` is where our application actually lives. I’d recommend exploring all these files, to get a sense of how they work together.
   
+----
+
+## References
+
+### Beginners
+
+* [React Tutorial](https://reactjs.org/tutorial/tutorial.html).
+* [30 Days of React](https://www.fullstackreact.com/30-days-of-react/).
+* [The Road to Learn React](https://www.robinwieruch.de/the-road-to-learn-react/.)
+
+
+### Intermediary
+
+
+### Pros
+
+
+-----
+
 
 ----
 

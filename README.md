@@ -6,6 +6,18 @@ A repository with everything you need to learn and become an expert on [React](h
 
 
 
+## What's React?
+
+From [React's documentation](https://reactjs.org/tutorial/tutorial.html#what-is-react): **"React is a declarative, efficient, and flexible JavaScript library for building user interfaces. It lets you compose complex UIs from small and isolated pieces of code called “components”.**
+
+
+Starting with `React.Component`, the `render` method returns a description of what you want to see on the screen, returning a `React element`, which is a lightweight description of what to render.
+
+For instance, React developers use a syntax called [JSX](https://reactjs.org/docs/introducing-jsx.html) which makes these structures easier. For example,  the ` <div />` syntax is transformed at build time to `React.createElement('div')`. You can put any JavaScript expressions within braces inside JSX!
+
+
+--------
+
 ## Tutorials
 
 ### React in 5 minutes

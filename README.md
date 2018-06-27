@@ -1,8 +1,8 @@
 # 🦄 Everything React🦄 
 
-A repository with everything you need to learn and become an expert in React. It goes together with a series of posts I am starting at [my blog](http://singularity.sh/).
+A repository with everything you need to learn and become an expert on [React](https://reactjs.org/). It goes together with a series of posts I am starting at [my blog](http://singularity.sh/).
 
-This is still in construction so Stay Tuned! <3
+***This is still in construction so Stay Tuned! <3***
 
 
 

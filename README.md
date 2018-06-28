@@ -6,6 +6,31 @@ A repository to learn [React](https://reactjs.org/). It goes together with a ser
 
 
 
+------
+
+## Some Concepts
+
+#### Components
+
+Everything in React is a component, and these usually take the form of JavaScript classes.
+
+Starting with `React.Component`, the `render` method returns a description of what you want to see on the screen, returning a `React element`, which is a lightweight description of what to render.
+
+### JSX
+
+React developers use a syntax called `JSX` which makes these structures easier. For example,  the ` <div />` syntax is transformed at build time to `React.createElement('div')`. You can put any JavaScript expressions within braces inside JSX!
+
+#### Data
+
+There are two types of data in React:
+
+* state: private and can be changed from within the component itself.
+* props: external, and not controlled by the component itself.
+
+A component can change its internal state directly but it can not change its props directly.
+
+
+
 --------
 
 ## Tutorials
@@ -73,6 +98,8 @@ You will see the additions instantly updated in your browser at `http://localhos
 
 #### (MORE SOON)
 
+
+-----
 
 ## References to get Started
 

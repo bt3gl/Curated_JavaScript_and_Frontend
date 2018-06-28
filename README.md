@@ -10,7 +10,7 @@ A repository to learn [React](https://reactjs.org/). It goes together with a ser
 
 ## Tutorials
 
-### React in 5 minutes
+### React in 5 minutes with create-react-app
 
 1. Install Node.js and Yarn.
 
@@ -69,7 +69,10 @@ export default App;
 
 You will see the additions instantly updated in your browser at `http://localhost:3000/ `.
 
-#### Voilà! Dat's it? Yes, datzit! <3
+#### Voilà! Dat's it? Yes, datzit! <3 
+
+#### (MORE SOON)
+
 
 ## References to get Started
 

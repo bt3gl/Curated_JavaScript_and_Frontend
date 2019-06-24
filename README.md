@@ -3,6 +3,9 @@
 A repository for those who postponed JS, React, GraphQL and all that 💩 to 2019.
 
 
+------
+
+## JavaScript ES6
 
 
 
@@ -92,42 +95,39 @@ export default App;
 
 You will see the additions instantly updated in your browser at `http://localhost:3000/ `.
 
-#### Voilà! Dat's it? Yes, datzit! <3 
-
-#### (MORE SOON)
 
 
 -----
 
 ## References 
 
-## JavaScript ES6
+### JavaScript ES6
 
-### Video Lessons
+#### Video Lessons
 
 * [Egghead](https://egghead.io).
 
 
-### Books
+#### Books
 
 * [You don't know JS](https://github.com/getify/You-Dont-Know-JS).
 * [Exploring ES6](https://exploringjs.com/es6/).
 
 
-### Tutorials
+#### Tutorials
 
 * [Babel's learn ES2015](https://babeljs.io/docs/en/learn).
 
 
-## Node
+### Node
 
-### Articles
+#### Articles
 
 * [Node.js Async Await in ES7](https://stackabuse.com/node-js-async-await-in-es7/).
 
 
 
-### React
+#### React
 
 * [React Tutorial](https://reactjs.org/tutorial/tutorial.html).
 * [30 Days of React](https://www.fullstackreact.com/30-days-of-react/).

@@ -127,7 +127,7 @@ You will see the additions instantly updated in your browser at `http://localhos
 
 
 
-#### React
+### React
 
 * [React Tutorial](https://reactjs.org/tutorial/tutorial.html).
 * [30 Days of React](https://www.fullstackreact.com/30-days-of-react/).

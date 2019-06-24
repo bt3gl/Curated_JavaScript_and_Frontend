@@ -1,4 +1,4 @@
-# 🦄 YYGGTJSFSS: Yeah, You Gotta Get the JS Frotend Shit Straight 🦄 
+# 🦄 YYGGTJSFSS: Yeah, You Gotta Get the JS Frotend 🌈 Straight 🦄 
 
 A repository for those who postponed JS, React, GraphQL and all that 🌈 to 2019.
 

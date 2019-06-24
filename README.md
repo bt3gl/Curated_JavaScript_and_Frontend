@@ -1,14 +1,14 @@
-# 🦄 Everything React 🦄 
+# 🦄 YYGGTJSFSS: Yeah, You Gotta Get the JS Frotend Shit Straight 🦄 
 
-A repository to learn [React](https://reactjs.org/). It goes together with a series of posts I am starting at [my blog](http://singularity.sh/).
+A repository for those who postponed JS, React, GraphQL and all that 💩 to 2019.
 
-***This is still in construction so Stay Tuned! <3***
+
 
 
 
 ------
 
-## Some Concepts
+## React
 
 #### Components
 
@@ -31,11 +31,9 @@ A component can change its internal state directly but it can not change its pro
 
 
 
---------
+### Tutorials
 
-## Tutorials
-
-### React in 5 minutes with create-react-app
+#### React in 5 minutes with create-react-app
 
 1. Install Node.js and Yarn.
 
@@ -101,7 +99,35 @@ You will see the additions instantly updated in your browser at `http://localhos
 
 -----
 
-## References to get Started
+## References 
+
+## JavaScript ES6
+
+### Video Lessons
+
+* [Egghead](https://egghead.io).
+
+
+### Books
+
+* [You don't know JS](https://github.com/getify/You-Dont-Know-JS).
+* [Exploring ES6](https://exploringjs.com/es6/).
+
+
+### Tutorials
+
+* [Babel's learn ES2015](https://babeljs.io/docs/en/learn).
+
+
+## Node
+
+### Articles
+
+* [Node.js Async Await in ES7](https://stackabuse.com/node-js-async-await-in-es7/).
+
+
+
+### React
 
 * [React Tutorial](https://reactjs.org/tutorial/tutorial.html).
 * [30 Days of React](https://www.fullstackreact.com/30-days-of-react/).

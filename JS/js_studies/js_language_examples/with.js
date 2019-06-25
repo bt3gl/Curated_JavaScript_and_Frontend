@@ -1,3 +1,6 @@
+// with will make your code run slower, since 
+// it's out of compiler optimization, so dont use it
+
 var obj = {
         a: 1,
         b: 2,

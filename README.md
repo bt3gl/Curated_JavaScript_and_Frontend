@@ -107,6 +107,7 @@ You will see the additions instantly updated in your browser at `http://localhos
 
 #### Video Lessons
 
+* [ES6 for Everyone](https://es6.io/).
 * [Egghead](https://egghead.io).
 
 

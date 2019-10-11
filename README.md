@@ -1,14 +1,6 @@
-# 🦄 YYGGTJSFSS: Yeah, You Gotta Get the JS Frotend 🌈 Straight 🦄 
+# JavaScript and Frontend Resources
 
-A (unorganized) repository with snippets and references, for those who postponed JS, React, GraphQL and all that 🌈 to 2019.
-
-
-
-
-------
-
-## JavaScript ES6
-
+Learning resources.
 
 
 ------

@@ -111,6 +111,8 @@ You will see the additions instantly updated in your browser at `http://localhos
 
 #### Tutorials & Articles
 
+
+* [Facebook's Create React App](https://github.com/facebook/create-react-app).
 * [Babel's learn ES2015](https://babeljs.io/docs/en/learn).
 * [A Dead Simple intro to Destructuring JavaScript Objects](https://wesbos.com/destructuring-objects/).
 * [ES5 functions vs. ES6 ‘fat arrow’ functions](https://medium.com/@thejasonfile/es5-functions-vs-es6-fat-arrow-functions-864033baa1a).
@@ -133,6 +135,12 @@ You will see the additions instantly updated in your browser at `http://localhos
 * [The Road to Learn React](https://www.robinwieruch.de/the-road-to-learn-react/).
 * [Higher-order Components: A React Application Design Pattern](https://www.sitepoint.com/react-higher-order-components/).
 * [An incremental tutorial on promises in javascript](https://www.sohamkamani.com/blog/2016/08/28/incremenal-tutorial-to-promises/).
+* [React Tutorial - Official tutorial from React]()https://reactjs.org/tutorial/tutorial.html.
+* [Getting Started with Redux](https://egghead.io/courses/getting-started-with-redux).
+* [ReactJS / Redux Tutorial](https://www.youtube.com/playlist?list=PL55RiY5tL51rrC3sh8qLiYHqUV3twEYU_).
+
+
+
 
 ----
 

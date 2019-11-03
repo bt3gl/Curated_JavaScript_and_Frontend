@@ -109,9 +109,13 @@ You will see the additions instantly updated in your browser at `http://localhos
 * [Exploring ES6](https://exploringjs.com/es6/).
 
 
-#### Tutorials
+#### Tutorials & Articles
 
 * [Babel's learn ES2015](https://babeljs.io/docs/en/learn).
+* [A Dead Simple intro to Destructuring JavaScript Objects](https://wesbos.com/destructuring-objects/).
+* [ES5 functions vs. ES6 ‘fat arrow’ functions](https://medium.com/@thejasonfile/es5-functions-vs-es6-fat-arrow-functions-864033baa1a).
+* [JavaScript & The spread operator](https://codeburst.io/javascript-the-spread-operator-a867a71668ca).
+* [How Three Dots Changed JavaScript](https://dmitripavlutin.com/how-three-dots-changed-javascript/).
 
 
 ### Node
@@ -126,7 +130,9 @@ You will see the additions instantly updated in your browser at `http://localhos
 
 * [React Tutorial](https://reactjs.org/tutorial/tutorial.html).
 * [30 Days of React](https://www.fullstackreact.com/30-days-of-react/).
-* [The Road to Learn React](https://www.robinwieruch.de/the-road-to-learn-react/.)
+* [The Road to Learn React](https://www.robinwieruch.de/the-road-to-learn-react/).
+* [Higher-order Components: A React Application Design Pattern](https://www.sitepoint.com/react-higher-order-components/).
+* [An incremental tutorial on promises in javascript](https://www.sohamkamani.com/blog/2016/08/28/incremenal-tutorial-to-promises/).
 
 ----
 
